@@ -1,0 +1,30 @@
+<div class="ion-page" id="main-content">
+
+  <ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <div class="logo"></div>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-toolbar translucent>
+      <ion-title>Строительный контроль</ion-title>
+    </ion-toolbar>
+
+
+    <ion-searchbar placeholder="проект" (ionChange)="searchProject($event)"></ion-searchbar>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col class="projectList" size="6" *ngFor="let item of projectListNew">
+          <ion-item lines="none">
+            <ion-button fill="outline" color="danger" size="default" style="width: 100%;margin: 0;white-space: normal;height: 100%" class="projectButton">{{item}}</ion-button>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+  </ion-content>
+</div>

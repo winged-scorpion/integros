@@ -1,0 +1,33 @@
+.footer-but{
+  display: flex;
+  padding: 0;
+  border-top: 1px solid #E0E0E0;
+  button{
+    width: 50%;
+    height: 30px;
+    border-right: 1px solid #E0E0E0;
+    color: #262626;
+    font-weight: bold;
+    text-transform: uppercase;
+    outline: none;
+  }
+}
+.form-label{
+  display: flex;
+  align-items: center;
+  --padding-start: 0;
+  --min-height: 30px;
+  ion-card-subtitle{
+    margin-left: 15px;
+  }
+  .in-item{
+    margin: 0;
+  }
+
+}
+.closed{
+  color: black;
+  float: right;
+  margin: 5px 5px 0 5px;
+}
+

@@ -1,0 +1,68 @@
+<ion-app>
+  <ion-menu side="start" content-id="main-content">
+    <ion-header>
+      <ion-toolbar translucent>
+        <ion-title>Menu</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content>
+      <ion-list>
+        <ion-item>
+          <ion-icon name="log-out" slot="end"></ion-icon>
+          <ion-label (click)="logOut()">{{userName}}</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon name="list" slot="end"></ion-icon>
+          <ion-label (click)="pageItem('')">Главная</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon name="construct" slot="end"></ion-icon>
+          <ion-label (click)="pageItem('create')">СОЗДАТЬ ПРОЕКТ</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon name="list" slot="end"></ion-icon>
+          <ion-label (click)="pageItem('reports')">ОТЧЕТЫ</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-icon name="help" slot="end"></ion-icon>
+          <ion-label (click)="pageItem('help')">СПРАВОЧНИК</ion-label>
+        </ion-item>
+      </ion-list>
+    </ion-content>
+
+  </ion-menu>
+  <ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <ion-title>
+        {{itemPage}}
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+
+
+
+  <div [ngSwitch]="pageItemComponent">
+    <div *ngSwitchCase="'reports'">
+      <app-reports></app-reports>
+    </div>
+    <div *ngSwitchCase="'create'">
+      <app-create-project></app-create-project>
+    </div>
+    <div *ngSwitchCase="'help'">
+      <app-help></app-help>
+    </div>
+    <div *ngSwitchCase="''">
+      <app-sort-project></app-sort-project>
+    </div>
+    <div *ngSwitchDefault>
+      <app-sort-project></app-sort-project>
+    </div>
+  </div>
+
+
+</ion-app>

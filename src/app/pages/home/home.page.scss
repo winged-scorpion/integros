@@ -1,0 +1,18 @@
+.my-custom-menu {
+  --width: 500px;
+}
+.logo{
+  background: url("../../../assets/logo.png") no-repeat center;
+  background-size: contain;
+  height: 46px;
+  width: 90%;
+}
+h1{
+  text-align: center;
+}
+.projectList ion-item {
+  --padding-end: 0px;
+  --padding-start: 0px;
+  --inner-padding-end: 0px;
+  --inner-padding-start: 0px;
+}

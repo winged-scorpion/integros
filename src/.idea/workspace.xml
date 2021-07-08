@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d22dab4-5c80-4424-be66-d7f4d707dc0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../angular11/src/app/binance_api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../angular11/src/app/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6-ts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6-ts/ts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6/project/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6_gulp/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6_gulp/project/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6_gulp/project/assets/js/es-ts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../es6_gulp/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../react/main/src/galery/albom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../react/main/src/galery/galery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../react/main/src/galery/sendInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../react/main/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth-guard.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/item.User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/home/get.Project.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pages/home/local.Project.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/projectArr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/safe.Local.User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/projectApi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../integrossTest/src/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../integrossTest/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../integrossTest/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../integrossTest/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../integrossTest/src/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../vue-cdn/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1q99VNIfh0EkMxT45GkdDTqA1ab" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sdk/capacitordemoapk" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\main\server\OSPanel\domains\localhost\integrossApp\src\app\pages\home" />
+      <recent name="X:\main\server\OSPanel\domains\localhost\integrossApp\src\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d22dab4-5c80-4424-be66-d7f4d707dc0b" name="Default Changelist" comment="" />
+      <created>1616480961459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616480961459</updated>
+      <workItem from="1616480962519" duration="1124000" />
+      <workItem from="1616482297286" duration="3499000" />
+      <workItem from="1616485906402" duration="1136000" />
+      <workItem from="1616487078091" duration="1248000" />
+      <workItem from="1616993979729" duration="548000" />
+      <workItem from="1616994632511" duration="7147000" />
+      <workItem from="1617001897280" duration="7352000" />
+      <workItem from="1617357438856" duration="9878000" />
+      <workItem from="1617593642853" duration="1186000" />
+      <workItem from="1617619440359" duration="14060000" />
+      <workItem from="1617709709201" duration="4913000" />
+      <workItem from="1617792961240" duration="6257000" />
+      <workItem from="1617862585775" duration="5544000" />
+      <workItem from="1617869559706" duration="145000" />
+      <workItem from="1617870170942" duration="90000" />
+      <workItem from="1617870373895" duration="329000" />
+      <workItem from="1617871354078" duration="586000" />
+      <workItem from="1617874936054" duration="16000" />
+      <workItem from="1617875016449" duration="341000" />
+      <workItem from="1617961278155" duration="979000" />
+      <workItem from="1618220685273" duration="13400000" />
+      <workItem from="1618305681261" duration="2945000" />
+      <workItem from="1618457346103" duration="7780000" />
+      <workItem from="1618491109027" duration="7144000" />
+      <workItem from="1618758681472" duration="115000" />
+      <workItem from="1618831955826" duration="761000" />
+      <workItem from="1618832819455" duration="2118000" />
+      <workItem from="1618835241610" duration="4959000" />
+      <workItem from="1618842156778" duration="193000" />
+      <workItem from="1618842773634" duration="10000" />
+      <workItem from="1618842796980" duration="683000" />
+      <workItem from="1618843509827" duration="24000" />
+      <workItem from="1618889425821" duration="29000" />
+      <workItem from="1618889586280" duration="419000" />
+      <workItem from="1618897126561" duration="12904000" />
+      <workItem from="1619009757660" duration="600000" />
+      <workItem from="1619017290383" duration="9184000" />
+      <workItem from="1619083359263" duration="8923000" />
+      <workItem from="1619145327215" duration="15666000" />
+      <workItem from="1619405217637" duration="1186000" />
+      <workItem from="1619524170449" duration="62000" />
+      <workItem from="1619595503500" duration="5387000" />
+      <workItem from="1619752827222" duration="1200000" />
+      <workItem from="1620054608432" duration="561000" />
+      <workItem from="1620055233570" duration="2247000" />
+      <workItem from="1620197751763" duration="1269000" />
+      <workItem from="1620383572756" duration="459000" />
+      <workItem from="1620387558128" duration="527000" />
+      <workItem from="1620388869970" duration="293000" />
+      <workItem from="1620389196977" duration="505000" />
+      <workItem from="1620398679518" duration="612000" />
+      <workItem from="1620737555421" duration="2406000" />
+      <workItem from="1620806780345" duration="1183000" />
+      <workItem from="1620817010605" duration="1275000" />
+      <workItem from="1620894993750" duration="1743000" />
+      <workItem from="1620914094100" duration="560000" />
+      <workItem from="1620983849628" duration="1433000" />
+      <workItem from="1621845672093" duration="10370000" />
+      <workItem from="1621869241902" duration="1077000" />
+      <workItem from="1621912118639" duration="617000" />
+      <workItem from="1622464913729" duration="1324000" />
+      <workItem from="1622466669746" duration="394000" />
+      <workItem from="1622529800527" duration="107000" />
+      <workItem from="1624531058367" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618908755014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1618908755014" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1624532636466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1624532636466" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1618832894367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1618832894367" />
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619164859109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619164859109" />
+    <state x="-1280" y="0" width="1296" height="1027" key="dock-window-1" timestamp="1619157427497">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1280" y="0" width="1296" height="1027" key="dock-window-1/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619157427497" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1618233521847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1618233521847" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1619024544309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619024544309" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1619159225210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619159225210" />
+  </component>
+</project>
